@@ -10,11 +10,27 @@ If you're looking for the walkthroughs and useful sites I've put together for th
 
 <br>
 
+## Read the docs!:
+
+* [Bash](https://www.gnu.org/software/bash/manual/bash.html)
+
+* [Git](https://git-scm.com/docs)
+
+* [HTML](https://devdocs.io/html/)
+
+* [CSS](https://devdocs.io/css/)
+
+<br>
+
 ## Cheatsheets:
 
 * [Markdown](https://www.markdownguide.org/cheat-sheet/)
 
 * [Git](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+
+* [HTML](https://htmlcheatsheet.com/)
+
+* [CSS](https://htmlcheatsheet.com/css/)
 
 <br>
 
@@ -25,3 +41,5 @@ If you're looking for the walkthroughs and useful sites I've put together for th
 * [Github](https://github.com/)
 
 * [CiteThisForMe](https://www.citethisforme.com/)
+
+### If you have a suggested change to the material set out here, or can suggest an item to add, contact me through the class Discord and I'll be excited to add it. :)
