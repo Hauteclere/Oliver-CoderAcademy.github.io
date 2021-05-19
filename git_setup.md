@@ -14,9 +14,11 @@
 
 ## 1.1. Extra steps for Windows users only...
   **a) Enable copying and pasting hotkeys**
+  <br>
   Right-click on the bar at the top of the terminal window and go to ```Properties```. Then check ```Use Ctrl+Shift+C/V as Copy/Paste```.
 
   **b) Set up an alias for your browser** 
+  <br>
   This will make it possible to quickly open files you're working on (e.g., .html pages) in your default browser. Enter the following commands into your terminal shell:
   ```
   export BROWSER='/mnt/c/Windows/explorer.exe'
@@ -30,6 +32,7 @@
   You should now be able to open .html files by entering ```see myfile.html``` in the terminal. This is the equivalent of the convenient ```open myfile.html``` command that Mac users automatically have access to.
 
   **c) Make sure you have installed the [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) extension for VS Code**
+  <br>
   If you followed the WSL installation instructions I posted on discord, you'll have this already.
 
 <br>
