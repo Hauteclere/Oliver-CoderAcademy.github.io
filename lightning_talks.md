@@ -1,4 +1,5 @@
 # Lightning Talk Order Presentation:
+We will run one lightning talk per week, on the saturday afternoon, except in weeks where assessment us due. ;)
 * Oliver (Educator)
 * Jeremy
 * Hui-Mun
