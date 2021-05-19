@@ -69,8 +69,9 @@
 
 <br>
 
-## 4. Create a directory for all your coursework, and a subdirectory to contain today's exercise...
+## 4. Create a directory within your home directory for all your coursework, and a subdirectory to contain today's exercise...
   ```Bash
+  cd ~
   mkdir ccc_coursework
   cd ccc_coursework
   mkdir html_intro
