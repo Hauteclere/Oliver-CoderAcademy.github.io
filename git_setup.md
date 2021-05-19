@@ -33,7 +33,7 @@
 
   **c) Make sure you have installed the [Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) extension for VS Code**
   <br>
-  If you followed the WSL installation instructions I posted on discord, you'll have this already.
+  If you followed [the WSL installation instructions I posted on discord](https://oliver-coderacademy.github.io/wsl_setup.html), you'll have this already.
 
 <br>
 
