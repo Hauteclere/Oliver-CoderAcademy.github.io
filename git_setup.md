@@ -21,7 +21,7 @@
   <br>
   This will allow you to set environment variables specific to the Bash shell.
   ```Bash
-  cat .profile > .bash_profile
+  cat ~/.profile > ~/.bash_profile
   ```
 
   **c) Set up an alias for your browser** 
