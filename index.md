@@ -8,6 +8,8 @@ If you're looking for the walkthroughs and useful sites I've put together for th
 
 * [Setting up your coding environment](https://oliver-coderacademy.github.io/git_setup.html)
 
+* [Creating your Github Pages Site](https://pages.github.com/)
+
 <br>
 
 ## Read the docs!:
