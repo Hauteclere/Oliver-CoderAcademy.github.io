@@ -1,0 +1,44 @@
+body {
+    display: flex;
+    flex-direction: column;
+    background-color: #013A63;
+    color: #ffbe40;
+    font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue';
+    font-size: 3vmin;
+}
+
+.banner {
+    display: flex;
+    flex-direction: row;
+}
+
+.bannerImg {
+    width: 40%;
+    height: auto;
+}
+
+.bannerImg img {
+    width: 100%;
+    height: auto;
+}
+
+a {
+    color: #f04155;
+}
+
+h1 {
+    font-size: 7vmin;
+    text-align: center;
+    padding-top: 10vmin;
+}
+
+.intro {
+    background-color: #012A4A;
+}
+
+@media screen and (max-width: 599px) {
+    .banner {
+        font-size: 40px;
+    }
+}
+
