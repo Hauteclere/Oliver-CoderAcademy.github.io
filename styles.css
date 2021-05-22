@@ -1,29 +1,38 @@
 body {
     display: flex;
     flex-direction: column;
-    background-color: #013A63;
-    color: #ffbe40;
+    background-color: #264653;
+    color: #e9c46a;
     font-family: 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue';
-    font-size: 3vmin;
+    font-size: 20px;
+}
+
+.intro {
+    background-color: #023047;
+}
+
+.intro p {
+    padding-left: 5vmin;
 }
 
 .banner {
     display: flex;
     flex-direction: row;
+    justify-content: space-around;
 }
 
 .bannerImg {
-    width: 40%;
-    height: auto;
-}
-
-.bannerImg img {
-    width: 100%;
-    height: auto;
+    max-width: 30vmin;
+    max-height: 20vmin;
+    margin-top: 10vmin;
 }
 
 a {
-    color: #f04155;
+    color: #f4a261;
+}
+
+a:hover {
+    color: #e76f51;
 }
 
 h1 {
@@ -32,13 +41,18 @@ h1 {
     padding-top: 10vmin;
 }
 
-.intro {
-    background-color: #012A4A;
-}
 
 @media screen and (max-width: 599px) {
-    .banner {
-        font-size: 40px;
+    body {
+        font-size: 20px;
+    }
+
+    h1 {
+        font-size: 30px;
+    }
+
+    .bannerImg {
+        display: none;
     }
 }
 
