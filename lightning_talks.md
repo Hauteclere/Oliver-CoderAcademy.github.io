@@ -1,17 +1,20 @@
 # Lightning Talk Order Presentation:
 We will run one lightning talk per week, on the saturday afternoon, except in weeks where assessment us due. ;)
-* Oliver (Educator)
-* Jeremy
-* Hui-Mun
-* Nathan
-* Luke Br
-* Simratbir
-* Lachlan
-* Georgia
-* Mohamad
+* Oliver (Educator) - Sat 29th May
+* Jeremy (Educator) - Sat 29th May
+* Hui-Mun - Sat 05th June
+* SKIP (portfolio due 12th June)
+* Luke Br - Sat 19th June 
+* SKIP (workbook due 26th June)
+* Sim - Sat 03rd July
+* Lachie - Sat 10th July
+* SKIP (terminal application due 17th June)
+* SKIP (holidays)
+* Georgie - 31st July
+* Mike 
 * Cody
-* Samuel
-* Joshua
+* Sam
+* Josh
 * Sacha
 * Almedin
 * Karl
@@ -21,7 +24,7 @@ We will run one lightning talk per week, on the saturday afternoon, except in we
 * Lydia
 * Andrew Ab
 * Hope
-* Matthew
+* Matt
 * Erin
 * Joseph
 * Konker
@@ -29,7 +32,7 @@ We will run one lightning talk per week, on the saturday afternoon, except in we
 * Alex
 * Oliver
 * Luke Da
-* Andrew Ad
+* Andrew Ada
 * Jackson
 * Muhammad
 * Pranav
