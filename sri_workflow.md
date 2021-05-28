@@ -13,14 +13,14 @@ Because subresource integrity operates by creating a hash based on the current s
     Substituting either 512, 384 or 256 in for `<HASH_TYPE>`, and the name of your file for `<FILENAME>`
 <br><br>
 * If your resource is live on the web, you can also use [the srihash.org hash generator](https://www.srihash.org/). 
-* There are plenty of other tools out there! 
+* There are plenty of other tools out there! [Here's one that generates the whole tag for you, that will work for live AND local resources, and will let you drag and drop local files!](https://laysent.github.io/sri-hash-generator/)
 
 ### 2: Add the `integrity` attribute to the resource `<link>` in your html.
 `integrity` should be equal to a long string, where each hash is prefixed by it's hashtype
 
 For example:
 ```Html
-    <link rel="stylesheet" href="styles.css" integrity="sha256-<SHA256_HASH_HERE> sha384-<SHA384_HASH_HERE> sha512-<SHA_512_HASH_HERE>"/>
+    <link rel="stylesheet" href="styles.css" integrity="sha256-<SHA256_HASH_HERE> sha384-<SHA384_HASH_HERE> sha512-<SHA_512_HASH_HERE>" cross-origin="anonymous"/>
 ```
 
 ### 3: There is no step three, it's literally that simple :D
