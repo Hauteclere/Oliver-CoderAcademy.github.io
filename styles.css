@@ -53,9 +53,10 @@ h2 {
     margin: 0;
     display: inline-block;
     vertical-align: middle;
-    width: calc(100% - 8px - 1vw);
+    width: 100%;
     padding-top: 0;
     padding-left: 1vw;
+    box-sizing: border-box;
 }
 
 h1 {
