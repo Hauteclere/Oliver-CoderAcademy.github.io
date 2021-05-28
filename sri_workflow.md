@@ -20,7 +20,7 @@ Because subresource integrity operates by creating a hash based on the current s
 
 For example:
 ```Html
-    <link rel="stylesheet" href="styles.css" integrity="sha256-<SHA256_HASH_HERE> sha384-<SHA384_HASH_HERE> sha512-<SHA_512_HASH_HERE>" crossorigin="anonymous"/>
+    <link rel="stylesheet" href="styles.css" integrity="sha256-<SHA256_HASH_HERE> sha384-<SHA384_HASH_HERE> sha512-<SHA_512_HASH_HERE>"/>
 ```
 
 ### 3: There is no step three, it's literally that simple :D
