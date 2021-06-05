@@ -3,6 +3,7 @@ body {
     max-width: 100%;
 }
 
+/* The banner component is the image at the top of the page */
 .banner {
     position: absolute;
     left: 0;
