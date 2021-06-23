@@ -1,0 +1,138 @@
+body {
+    background-color: #377F82;
+    max-width: 100%;
+}
+
+
+.content {
+    justify-content: space-between;
+    max-width: 100%;
+}
+
+section {
+    color: black;
+    font: 1.3rem Inconsolata, monospace;
+    border: 4px solid #C3C3C3;
+    margin-top: 5vw;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%;
+    max-width: 100%;
+    background:#C0C0C0;
+    border-width:1px;
+    border-color:#FFFFFF #808080 #808080 #FFFFFF;
+    border-style:solid;
+}
+
+.subBlock {
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+    margin-left: 5vw;
+}
+
+.newBlock {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    margin-left: 5vw;
+}
+
+
+.scores {
+    background-color: #FFFFFF;
+    margin-right: 5vw;
+    border-width:1px;
+    border-color: #808080 #FFFFFF #FFFFFF #808080;
+    border-style:solid;
+}
+
+#trophy {
+    margin-top: 5vh;
+    width: 20vw;
+}
+
+.medal {
+    width: 40px;
+    position: relative;
+    top: 20px;
+}
+
+h2 {
+    background-color: #07007E;
+    color: white;   
+    border: 4px solid #C3C3C3;
+    margin: 0;
+    display: inline-block;
+    vertical-align: middle;
+    width: 100%;
+    padding-top: 0;
+    padding-left: 1vw;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.textblock {
+    margin-left: 3vw;
+    margin-right: 1vw;
+    margin-top: 4vmin;
+}
+
+.standings {
+    list-style: none;
+}
+
+a {
+    color: #E78734;
+}
+
+a:visited {
+    color: #B943E5;
+}
+
+ .footer {
+    margin-bottom: 5vw;
+ }
+
+ .closeButton {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: grey;
+    background:#C0C0C0;
+    border-width:1px;
+    border-color:#FFFFFF #808080 #808080 #FFFFFF;
+    border-style:solid;
+    float: right;
+    margin: 8px;
+    padding: 2px;
+    margin-left: 1px;
+ }
+
+ button{
+    font: 1.3rem Inconsolata, monospace;
+    color: #808080;
+    outline:1px solid #000000;
+    background:#C0C0C0;
+    border-width:1px;
+    border-style:solid;
+    border-color:#FFFFFF #808080 #808080 #FFFFFF;
+    padding:4px 10px;
+    margin:20px auto 3px;
+    display:block;
+    position:relative;
+    margin-bottom: 1%;
+  }
+
+  @media only screen and (max-width: 768px) {
+      #trophy {
+        display: none;
+      }
+      .medal {
+        width: 20px;
+      }
+  }
+
+ 
