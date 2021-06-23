@@ -51,6 +51,7 @@ section {
 #trophy {
     margin-top: 5vh;
     width: 20vw;
+    height: auto;
 }
 
 .medal {
