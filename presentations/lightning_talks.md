@@ -1,11 +1,6 @@
 # Lightning Talk Order Presentation:
 We will run one lightning talk per week, on the saturday afternoon, except in weeks where assessment us due. ;)
-* Oliver (Educator) - Sat 29th May
-* Jeremy (Educator) - Sat 29th May
-* Hui-Mun - Sat 05th June
-* SKIP (portfolio due 12th June)
-* SKIP - Sat 19th June 
-* SKIP (workbook due 26th June)
+
 * Luke Br - Sat 03rd July
 * Lachie - Sat 10th July
 * SKIP (terminal application due 17th June)
