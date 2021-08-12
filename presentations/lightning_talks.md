@@ -6,30 +6,24 @@ We will run one lightning talk per week, on the saturday afternoon, except in we
 * SKIP (terminal application due 17th June)
 * SKIP (holidays)
 * Georgie - 31st July
-* Mike 
-* Cody
-* Sam
-* Josh
-* Sacha
-* Almedin
-* Karl
-* Brandon
-* Simon
-* Wilson
+* Mike - 7th August
+* Sam - 14th August
+* Josh - 21st August
+* Sacha - 28th August
+* Karl - 4th September
+* Brandon - 18th September
+* Wilson - 25th September
 * Lydia
 * Andrew Ab
 * Hope
 * Matt
-* Erin
 * Joseph
 * Konker
-* David
 * Alex
 * Oliver
 * Luke Da
 * Andrew Ada
 * Jackson
-* Muhammad
 * Pranav
 * Charbel
 * Jun
